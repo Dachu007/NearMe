@@ -1,8 +1,8 @@
 # Ex04 Places Around Me
 ## Date: 22-04-2025
 ```
-NAME: DHACHU
-REG NO: 24900257
+NAME: DHARSHINI S
+REG NO: 2122240040074
 ```
 ## AIM
 To develop a website to display details about the places around my house.
